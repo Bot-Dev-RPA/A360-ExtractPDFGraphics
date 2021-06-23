@@ -1,0 +1,14 @@
+{
+	"label": "LHGH PDF Tools",
+	"description": "Provides actions for performing PDF operations",
+	"PDFtoImage.label": "Extract PDF Images",
+	"PDFtoImage.description": "Extracts All Image Objects from PDF",
+	"PDFtoImage.node_label": "Extract {{inputFile}} images to {{outputType}}",
+	"PDFtoImage.return_label": "Select list variable to save generated file paths",
+	"PDFtoImage.inputFile.label": "Select a PDF for extraction",
+	"PDFtoImage.outputType.label": "Output Image File Format Type",
+	"PDFtoImage.outputLocation.label": "Output folder path",
+	"PDFtoImage.outputLocation.description": "If empty, file will be saved to same location as input file",
+	"PDFtoImage.colorFormat.label": "Target Color Format",
+	"PDFtoImage.colorFormat.description": "This is the format of the output file, color is not added if not present in original"
+	}
